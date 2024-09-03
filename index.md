@@ -1,5 +1,9 @@
 # This is a H1 header! 
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] 
 ``` python
 print('Hello World Kevin Lai!')
 ```
